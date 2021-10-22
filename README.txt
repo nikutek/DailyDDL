@@ -1,10 +1,6 @@
-# DailyDDL
-Codzienny losowy post na ig wrzucany
-
-
 
 Bibioteki potrzebne do uruchomienia skryptu:
--random \n
+-random
 -codecs
 -os
 -cv2
@@ -16,3 +12,7 @@ potrzebne foldery do działania:
 -produkt(na zapisywanie wygenerowanych obrazków)
 -teksty(z tekstami .txt)
 -teledyski(z teledyskami .mp4 najlepiej 360p)
+
+Problem może być z okienkiem window_name, któe się zwiesza i wyłącza dopiero kiedy program zgaśnie.
+To okienko jebane wylacza sie dopiero jak program skonczy działać, a program jest zapetlony wiec nigdy nie skonczy dzialac :/
+Nie wiem czy da się jakoś obejśc ten problem bo to z bibioteki pillow co zjebana jest ostro.
