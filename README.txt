@@ -1,5 +1,8 @@
 !!! NIE AKTUALNE NIE DZIAŁAJĄCE !!!
 
+@DailyDDL
+https://instagram.com/dailyddl?igshid=MzNlNGNkZWQ4Mg==
+
 Bibioteki potrzebne do uruchomienia skryptu:
 -random
 -codecs
