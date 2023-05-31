@@ -1,3 +1,4 @@
+!!! NIE AKTUALNE NIE DZIAŁAJĄCE !!!
 
 Bibioteki potrzebne do uruchomienia skryptu:
 -random
